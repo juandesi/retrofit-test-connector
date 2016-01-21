@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(open-weather-retrofit:greet) -->
+    <open-weather-retrofit:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(open-weather-retrofit:greet) -->
